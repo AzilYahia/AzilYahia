@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 :man_technologist: About Me :
  
-- :telescope: I’m currently a computer science student, a graphic designer, and a mobile app developer! 
+- :telescope: I’m currently a first year Master's artificial intelligence student, a graphic designer, and a software developer! 
 
 - :zap: In my free time, I work for a volunteering organization!
 
