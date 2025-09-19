@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 :man_technologist: About Me :
  
-- :telescope: I’m currently a first year Master's artificial intelligence student, a graphic designer, and a software developer! 
+- :telescope: I’m currently a second year Master's student in artificial intelligence, a Software engineer and a graphic designer! 
 
 - :zap: In my free time, I work for a volunteering organization!
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" **alt="jetbrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
-    <img src=" https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>
 
  
 </div>
