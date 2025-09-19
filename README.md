@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 :man_technologist: About Me :
  
-- :telescope: I’m currently a second year Master's student in artificial intelligence, a Software engineer and a graphic designer! 
+- :telescope: I'm Yahia, a Software Engineer at @Huawei, Master's in artificial intelligence, and a graphic designer!
 
 - :zap: In my free time, I work for a volunteering organization!
 
